@@ -4,7 +4,7 @@
 
 Installing Pi-Apps is as simple as runing this one command in a terminal
 ```bash
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install
 ```
 
 To install manually if you prefer to see what happens under the hood
